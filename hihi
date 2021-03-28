@@ -1,0 +1,2 @@
+name = "steven"
+puts "Hi, #{name}" if name == "steven"
